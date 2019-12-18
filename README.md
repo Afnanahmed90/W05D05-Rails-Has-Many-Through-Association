@@ -5,7 +5,7 @@ The has_many :through association is one of the most useful associations in Rail
 
 Or doctors may have many patients and patients may have many doctors and they could all be linked together through their appointments. 
 
-==============
+<br>
 First step, create our new project, called `doctor_app`.
 
         $ rails new doctor_app -d mysql
